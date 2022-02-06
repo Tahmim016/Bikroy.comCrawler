@@ -9,5 +9,5 @@ Scraping [Bikroy.com](https://bikroy.com/en) to extract the informations about d
 6. Description of the item
 I have also added another filed which contains the access time of the data.
 
-There is a simple mistake of mine that is, i have not added the img URL and the contact info of the owner.
+Here, I have not added the img URL and the contact info of the owner.
 And also the page is protected so you will not be able to srape other pages rather than the front page only.
